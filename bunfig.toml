@@ -1,0 +1,6 @@
+[install]
+# Prefer npm to stay compatible with most packages
+registry = "https://registry.npmjs.org"
+
+[log]
+level = "info"
